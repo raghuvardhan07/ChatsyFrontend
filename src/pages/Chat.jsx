@@ -128,10 +128,10 @@ const ContactsContainer = styled.div`
   @media screen and (max-width: 767px) {
     display: block;
     width: 90%;
-    height: 100vh;
+    height: 88vh;
     overflow: hidden;
     position: absolute;
-    top: 0;
+    top: 6vh;
     left: 5%;
     border-radius: 10px;
     box-shadow: 2px 2px 5px gray;

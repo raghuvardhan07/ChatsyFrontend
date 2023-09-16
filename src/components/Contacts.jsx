@@ -77,7 +77,7 @@ const Container = styled.div`
   background-color: #080420;
   @media screen and (max-width: 767px){
     grid-template-rows: 3.3rem auto 4.3rem;
-    height: 100vh;
+    height: 90vh;
   }
   .brand {
     display: flex;
