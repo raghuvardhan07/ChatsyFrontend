@@ -71,6 +71,7 @@ const Container = styled.div`
     gap: 1rem;
     .emoji {
       position: relative;
+      right: 0.5rem;
       svg {
         font-size: 1.5rem;
         color: #ffff00c8;

@@ -146,9 +146,10 @@ overflow: hidden;
     border-radius: 10px;
     box-shadow: 2px 2px 5px gray;
     width: 90vw;
+    height: 88vh;
     overflow: hidden;
     position: absolute;
-    top : 0;
+    top : 6vh;
     left: 5vw;
   }
 `;

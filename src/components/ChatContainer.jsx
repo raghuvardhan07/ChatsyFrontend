@@ -117,7 +117,9 @@ const Container = styled.div`
     padding: 0 2rem;
     @media screen and (max-width: 767px){
       position: relative;
-      bottom: 5px;
+      top: 5px;
+      background-color: rgb(25, 9, 52);
+      
     }
     
     .user-details {
